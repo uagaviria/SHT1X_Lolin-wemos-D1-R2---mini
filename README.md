@@ -1,4 +1,4 @@
-# WeMos D1 mini - arduino
+# SHT1X - WeMos D1 mini - arduino
 
 ## DESCRIPCIÓN:
 - La Wemos D1 Mini es solo ligeramente más grande que usar un módulo ESP12 directamente y aporta muchas ventajas, como incorporar un puerto Micro SD y conversor serial, regulador de tensión que permite alimentarlo a 5V, y terminales para conectar nuestros dispositivos. La placa Wemos D1 Mini es la versión de menor tamaño de su hermana mayor Wemos D1, Con unas dimensiones de 34.2mm x 25.6mm y un peso de 3g, es una de las placas más pequeñas basadas en el ESP8266.
