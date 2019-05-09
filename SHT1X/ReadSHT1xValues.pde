@@ -5,7 +5,7 @@
  * SHT11, SHT15) sensor.
  *
  * Copyright 2019 <uagaviria@gmail.com>
- * www.practicalarduino.com
+ * 
  */
 
 #include <SHT1x.h>
