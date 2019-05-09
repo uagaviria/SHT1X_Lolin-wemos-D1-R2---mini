@@ -1,10 +1,10 @@
 /**
- * ReadSHT1xValues
+ * SHT1xValores
  *
- * Read temperature and humidity values from an SHT1x-series (SHT10,
+ * Leer temperatura y humedad en el sensor SHT1x-series (SHT10,
  * SHT11, SHT15) sensor.
  *
- * Copyright 2009 Jonathan Oxer <jon@oxer.com.au>
+ * Copyright 2019 <uagaviria@gmail.com>
  * www.practicalarduino.com
  */
 
