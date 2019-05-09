@@ -95,7 +95,7 @@ void loop()
 <img src="https://github.com/uagaviria/Wemos-mini/blob/master/img/Wemos_pin.png" />
 
 
-
-
+ ## CONEXION DEL SHT1X
+<img src="https://raw.githubusercontent.com/uagaviria/SHT1X_Lolin-wemos-D1-R2---mini/master/img/wemos-and-sht10.png" />
 
 
